@@ -1,5 +1,5 @@
 ## Introduction & Objective
-My data set, acquired from the Ken French Data Library, included 25 portfolios ranked upon size and book-to-market ratio. The portfolios range across small-cap to large-cap stocks, varying from low book-to-market ratios (growth stocks) to high book-to-market ratios (value stocks) and are titled accordingly. In addition, we have the factor returns for all time periods, including RMRF (market risk premium), SMB (size factor), and HML (value factor). I will perform the analysis for all 25 of these portfolios.
+My data set, acquired from the Ken French Data Library, included 25 portfolios ranked upon size and book-to-market ratio. The portfolios range across small-cap to large-cap stocks, varying from low book-to-market ratios (growth stocks) to high book-to-market ratios (value stocks) and are titled accordingly. In addition, we have the factor returns for all time periods, including RMRF (market risk premium), SMB (size factor), and HML (value factor). Along with my team, I performed the analysis for all 25 of these portfolios.
 
 ## CAPM TEST
 
